@@ -6,7 +6,7 @@ class Solution {
         if(nums.length < 1) {
             return combo;
         }
-
+        
         if(nums.length < 2) {
             return combo;
         }
